@@ -16,7 +16,7 @@ body {
     padding-top: 5%;
     margin-left: 10px;
     font-weight: 700;
-    font-size: 8rem;
+    font-size: 80vw;
     color: #fff;
 }
 
@@ -25,6 +25,6 @@ body {
     font-family: 'Merriweather', 'serif';
     font-style: 'italic';
     margin-left: 10px;
-    font-size: 5rem;
+    font-size: 50vw;
     color: #fff;
 }
