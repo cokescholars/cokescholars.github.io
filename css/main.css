@@ -16,15 +16,14 @@ body {
     padding-top: 5%;
     margin-left: 10px;
     font-weight: 700;
-    font-size: 80vw;
+    font-size: 10vw;
     color: #fff;
 }
 
 .website-subtitle {
     padding-bottom: 1%;
     font-family: 'Merriweather', 'serif';
-    font-style: 'italic';
     margin-left: 10px;
-    font-size: 50vw;
+    font-size: 5vw;
     color: #fff;
 }
