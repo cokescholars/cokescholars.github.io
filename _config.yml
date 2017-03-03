@@ -1,0 +1,8 @@
+name: Coke Scholars
+description: An Unofficial Hub For All Things Coke Scholars
+author: Evan Welsh
+url: seventeen.cokescholars.org
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+paginate_path: /blog/:num/
+paginate: 5
