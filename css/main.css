@@ -8,14 +8,14 @@ body {
 
 body {
     font-family: 'cantarell', 'sans-serif';
-    color: #000;
+    background-color: #000;
 }
 
 .website-title {
     font-family: 'Open Sans', 'sans-serif';
     padding-top: 5%;
     font-weight: 700;
-    font-size: 7rem;
+    font-size: 10rem;
     color: #fff;
 }
 
@@ -23,6 +23,6 @@ body {
     padding-bottom: 1%;
     font-family: 'Merriweather', 'serif';
     font-style: 'italics';
-    font-size: 3rem;
+    font-size: 6rem;
     color: #fff;
 }
